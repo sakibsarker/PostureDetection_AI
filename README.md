@@ -1,2 +1,3 @@
 # PostureDetection_AI!
-(https://user-images.githubusercontent.com/95316668/182700089-67d77860-6ba8-4573-b6a0-86fa8d19c28e.png)
+
+![Screenshot 2022-08-03 200911 (3)](https://user-images.githubusercontent.com/95316668/182700246-4633e4fa-1da3-4b4a-8dca-9e967af343af.png)
