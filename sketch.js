@@ -15,10 +15,6 @@ function setup() {
     posenet = ml5.poseNet(capture, modelLoaded);
     posenet.on('pose',receivedPoses);
 
-    actor_img = loadImage('images/shahrukh.png');
-    specs = loadImage('images/spects.png');
-    smoke = loadImage('images/cigar.png');
-
 }
 
 function receivedPoses(poses){
